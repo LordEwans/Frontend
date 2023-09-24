@@ -32,7 +32,5 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    baseURL: '/frontend/',
-    buildAssetsDir: 'assets',
   },
 });

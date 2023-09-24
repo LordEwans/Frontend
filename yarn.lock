@@ -4269,6 +4269,11 @@ crc32-stream@^5.0.0:
     crc-32 "^1.2.0"
     readable-stream "^3.4.0"
 
+create-cloudflare@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/create-cloudflare/-/create-cloudflare-2.3.0.tgz#68fdf33ed1a30d38a861634aad80ab0d3b11f681"
+  integrity sha512-rDnIZ6Xjlud1YHlf/tZCemY1TNuRUMMhVPptCGekbv9YQhk625CW2GIp3tgfYSL+GP+57FnesQfaoIwd1I37/A==
+
 create-require@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/create-require/-/create-require-1.1.1.tgz#c1d7e8f1e5f6cfc9ff65f9cd352d37348756c333"
